@@ -1081,10 +1081,16 @@
             "asOfVersion": "0.21.0"
         },
         {
+            "libraryName": "source-map",
+            "typingsPackageName": "source-map",
+            "sourceRepoURL": "https://github.com/mozilla/source-map",
+            "asOfVersion": "0.5.7"
+        },
+        {
             "libraryName": "Spin.js",
             "typingsPackageName": "spin.js",
             "sourceRepoURL": "http://fgnass.github.com/spin.js/",
-            "asOfVersion": "3.0.0"
+            "asOfVersion": "3.0.0"ovides its own types
         },
         {
             "libraryName": "spotify-web-api-js",
